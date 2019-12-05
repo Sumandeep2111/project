@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sumandeep_c0764942_MT</string>
+
+    <string-array name="cars" >
+  <item>"please choose a car"</item>
+        <item>"BMW"</item>
+        <item>"AUDI"</item>
+        <item>"Cadillac"</item>
+        <item>"Volks Wagon"</item>
+        <item>"Mercedes"</item>
+        <item>"Peugeot"</item>
+        <item>"Lamborginni"</item>
+        <item>"Dustor"</item>
+        <item>"Nano"</item>
+
+    </string-array>
+
+</resources>
